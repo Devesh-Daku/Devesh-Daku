@@ -11,12 +11,12 @@ I'm a B.Tech student at IIT Guwahati, passionate about electronics, software dev
 **Highlighted Projects:**
 
 *   **Object Suspension PID Controller:** Engineered a PID control system for stable object levitation using air thrust.  Reduced settling time by 68% through parameter optimization. [GitHub](https://github.com/Devesh-Daku/Ball_Suspension_PID_Controller)
-*   **[Other Relevant Project (If Dino Game is Relevant, Otherwise Replace)]:** [Project Name] - [Brief, compelling description highlighting key achievements and technologies]. [GitHub Link]
-*   **Social Media Automation Tool:** Developed a Node.js-based automation tool with Gemini API integration to streamline content management across platforms. [GitHub](https://github.com/Devesh-Daku/IPBOT)
+*   **Social Media Automation Tool:** Developed a Node. js-based automation tool with Gemini API integration to streamline content management across platforms. [GitHub](https://github.com/Devesh-Daku/IPBOT)
+*   **my Portfolio Website:** Developed a reusable React. js-based frontend. [Portfolio](https://suppandi.netlify.app/).
 
 **Skills:**
 
-*   **Languages:** C/C++, JavaScript, Python
+*   **Languages:** C/C++, JavaScript.
 *   **Web:** React.js, Node.js, HTML, CSS, TailwindCSS
 *   **Microcontrollers:** STM32, Arduino (AVR)
 *   **CAD:** AutoCAD, Fusion 360
